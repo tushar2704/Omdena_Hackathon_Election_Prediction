@@ -32,7 +32,7 @@ st.markdown(
     }
     </style>
     <div class="footer">
-        Developed using CrewAI and Groq API | Not for production use
+        Developed by Tushar Aggarwal using CrewAI and Groq API | Not for production use
     </div>
     """,
     unsafe_allow_html=True
